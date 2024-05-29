@@ -1,6 +1,6 @@
 const PENDING = 'PENDING',
     FULFINED = 'FULFINED',
-    REJECTED = 'REJECTED'
+    REJECTED = 'REJECTED' 
 
 class MyPromise {
     constructor(executor) {
